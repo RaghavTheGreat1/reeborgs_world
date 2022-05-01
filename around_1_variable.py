@@ -1,8 +1,8 @@
-# Initial position of bot
+# Initial position of bot of x axis
 initial_x = 4
-# Number of rows
-x = 10
 # Number of columns
+x = 10
+# Number of row
 y = 9
 
 for i in range(initial_x,  (2*x) + (2*y) + initial_x, 1):
