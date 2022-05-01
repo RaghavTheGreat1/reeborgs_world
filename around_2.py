@@ -1,8 +1,8 @@
-# initial postion of bot
+# initial postion of bot in x axis
 initial_x = 4
-# number of rows
-x = 10
 # number of columns
+x = 10
+# number of rows
 y = 10
 
 def turn_right():
